@@ -186,7 +186,7 @@ header{
 
 
 
-@media (max-width: 375px) {
+@media (max-width: 575px) {
     header {
         background-image: url(images/bg-hero-mobile.svg); 
         background-size: cover;
